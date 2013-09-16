@@ -1,0 +1,10 @@
+c:\users\eric\documents\visual studio 2010\Projects\LearnDelegate\LearnDelegate\obj\x86\Debug\LearnDelegate.Properties.Resources.resources
+c:\users\eric\documents\visual studio 2010\Projects\LearnDelegate\LearnDelegate\obj\x86\Debug\LearnDelegate.csproj.GenerateResource.Cache
+c:\users\eric\documents\visual studio 2010\Projects\LearnDelegate\LearnDelegate\bin\Debug\LearnDelegate.exe
+c:\users\eric\documents\visual studio 2010\Projects\LearnDelegate\LearnDelegate\bin\Debug\LearnDelegate.pdb
+c:\users\eric\documents\visual studio 2010\Projects\LearnDelegate\LearnDelegate\obj\x86\Debug\LearnDelegate.exe
+c:\users\eric\documents\visual studio 2010\Projects\LearnDelegate\LearnDelegate\obj\x86\Debug\LearnDelegate.pdb
+C:\Users\eric\Documents\Visual Studio 2010\Projects\LearnDelegate\LearnDelegate\obj\x86\Debug\LearnDelegate.csprojResolveAssemblyReference.cache
+C:\Users\eric\Documents\Visual Studio 2010\Projects\LearnDelegate\LearnDelegate\obj\x86\Debug\LearnDelegate.FormButtons.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\LearnDelegate\LearnDelegate\bin\Debug\TabControls.exe
+C:\Users\eric\Documents\Visual Studio 2010\Projects\LearnDelegate\LearnDelegate\bin\Debug\TabControls.pdb

@@ -1,0 +1,7 @@
+c:\users\eric\documents\visual studio 2010\Projects\LearnDelegate\TabControls\bin\Debug\TabControls.exe
+c:\users\eric\documents\visual studio 2010\Projects\LearnDelegate\TabControls\bin\Debug\TabControls.pdb
+c:\users\eric\documents\visual studio 2010\Projects\LearnDelegate\TabControls\obj\x86\Debug\TabControls.Properties.Resources.resources
+c:\users\eric\documents\visual studio 2010\Projects\LearnDelegate\TabControls\obj\x86\Debug\TabControls.csproj.GenerateResource.Cache
+c:\users\eric\documents\visual studio 2010\Projects\LearnDelegate\TabControls\obj\x86\Debug\TabControls.exe
+c:\users\eric\documents\visual studio 2010\Projects\LearnDelegate\TabControls\obj\x86\Debug\TabControls.pdb
+C:\Users\eric\Documents\Visual Studio 2010\Projects\LearnDelegate\TabControls\obj\x86\Debug\TabControls.FormTabs.resources
